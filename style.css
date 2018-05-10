@@ -43,7 +43,7 @@ hr {
 
 header {
   background-color: #999;
-  background-image: url(docs\profilepic.JPG);
+  background-image: url(docs/background.JPG);
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
